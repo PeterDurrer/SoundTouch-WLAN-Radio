@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">SoundTouch Radio Rebuilder</string>
+    <string name="player_title">Player</string>
+    <string name="sender_list_title">Senderliste</string>
+    <string name="open_sender_list">Zur Senderliste</string>
+    <string name="back_to_player">Zurück zum Player</string>
 </resources>
